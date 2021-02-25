@@ -1,4 +1,8 @@
-﻿using System;
+﻿// USAGE EXAMPLES
+// .\Seasonal.exe https://myanimelist.net/anime/season
+// .\Seasonal.exe https://myanimelist.net/anime/season/2021/summer
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
