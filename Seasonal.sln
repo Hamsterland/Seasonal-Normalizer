@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seasonal", "Seasonal\Seasonal.csproj", "{900BA17E-9ED4-4E02-B291-F4DB3FFDC080}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seasonal.Core", "Seasonal.Core\Seasonal.Core.csproj", "{900BA17E-9ED4-4E02-B291-F4DB3FFDC080}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
